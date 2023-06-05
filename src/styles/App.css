@@ -1,0 +1,22 @@
+body {
+    --hue: var(--hue-neutral);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background: linear-gradient(90deg,#706e7c,#7e8194); */
+    /* background-color: gray; */
+    /* background-image: url('https://cdn.stocksnap.io/img-thumbs/960w/colorful-pencils_QDZA8FBZYI.jpg'); */
+    flex-direction: column;
+  }
+  
+  .menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+  
